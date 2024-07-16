@@ -12,11 +12,11 @@
   "tokens": [
     {
       "name": "Wrapped MO",
-      "address": "0x567556A7493FB7a22d2fd158Dd4C766a98705f96",
+      "address": "0x9B5eFe597851Cb8647B5b591405DcEA4a3163761",
       "symbol": "WMO",
       "decimals": 18,
       "chainId": 7924,
-      "logoURI": "https://raw.githubusercontent.com/mochainapp2/TokenDexList/main/tokens/0x567556A7493FB7a22d2fd158Dd4C766a98705f96.png"
+      "logoURI": "https://raw.githubusercontent.com/mochainapp2/TokenDexList/main/tokens/0x9B5eFe597851Cb8647B5b591405DcEA4a3163761.png"
     },
     {
       "name": "MUSDT",
