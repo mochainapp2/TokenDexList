@@ -1,0 +1,46 @@
+{
+  "name": "MOJITO Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/mochainapp2/TokenDexList/main/logo.png",
+  "keywords": ["mo", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped MO",
+      "address": "0x567556A7493FB7a22d2fd158Dd4C766a98705f96",
+      "symbol": "WMO",
+      "decimals": 18,
+      "chainId": 7924,
+      "logoURI": "https://raw.githubusercontent.com/mochainapp2/TokenDexList/main/0x567556A7493FB7a22d2fd158Dd4C766a98705f96.png"
+    },
+    {
+      "name": "MUSDT",
+      "address": "0x78677b0a995Bd4a6C69FB289E2a2C3601a8E34f6",
+      "symbol": "MUSDT",
+      "decimals": 18,
+      "chainId": 7924,
+      "logoURI": "https://raw.githubusercontent.com/mochainapp2/TokenDexList/main/0x78677b0a995Bd4a6C69FB289E2a2C3601a8E34f6.png"
+    },
+    {
+      "name": "MUSDC",
+      "address": "0x700905Db7e2E16a33eAe9Bd537aa56EB2605674C",
+      "symbol": "MUSDC",
+      "decimals": 18,
+      "chainId": 7924,
+      "logoURI": "https://raw.githubusercontent.com/mochainapp2/TokenDexList/main/0x700905Db7e2E16a33eAe9Bd537aa56EB2605674C.png"
+    },
+    {
+      "name": "MOJO",
+      "address": "0xf56dbfD7145b55950cB973AE5d837f8D1Eb4ae5c",
+      "symbol": "MOJO",
+      "decimals": 18,
+      "chainId": 7924,
+      "logoURI": "https://raw.githubusercontent.com/mochainapp2/TokenDexList/main/0xf56dbfD7145b55950cB973AE5d837f8D1Eb4ae5c.png"
+    }
+  ]
+}
